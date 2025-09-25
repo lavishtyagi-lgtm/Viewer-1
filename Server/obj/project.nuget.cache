@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Osw0I65vqSk=",
+  "dgSpecHash": "muLxScMKTP0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lavish Tyagi\\Desktop\\Viewer\\server\\Server.csproj",
+  "projectFilePath": "C:\\Users\\Lavish Tyagi\\Desktop\\Viewer\\Server\\Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lavish Tyagi\\.nuget\\packages\\autodesk.authentication\\2.0.1\\autodesk.authentication.2.0.1.nupkg.sha512",
     "C:\\Users\\Lavish Tyagi\\.nuget\\packages\\autodesk.forge.core\\4.1.1\\autodesk.forge.core.4.1.1.nupkg.sha512",
@@ -51,9 +51,9 @@
       "code": "NU1603",
       "level": "Warning",
       "message": "Server depends on Autodesk.ModelDerivative (>= 2.0.1) but Autodesk.ModelDerivative 2.0.1 was not found. Autodesk.ModelDerivative 2.1.0 was resolved instead.",
-      "projectPath": "C:\\Users\\Lavish Tyagi\\Desktop\\Viewer\\server\\Server.csproj",
+      "projectPath": "C:\\Users\\Lavish Tyagi\\Desktop\\Viewer\\Server\\Server.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Lavish Tyagi\\Desktop\\Viewer\\server\\Server.csproj",
+      "filePath": "C:\\Users\\Lavish Tyagi\\Desktop\\Viewer\\Server\\Server.csproj",
       "libraryId": "Autodesk.ModelDerivative",
       "targetGraphs": [
         "net8.0"
@@ -63,9 +63,9 @@
       "code": "NU1603",
       "level": "Warning",
       "message": "Server depends on Autodesk.Oss (>= 2.0.1) but Autodesk.Oss 2.0.1 was not found. Autodesk.Oss 2.1.0 was resolved instead.",
-      "projectPath": "C:\\Users\\Lavish Tyagi\\Desktop\\Viewer\\server\\Server.csproj",
+      "projectPath": "C:\\Users\\Lavish Tyagi\\Desktop\\Viewer\\Server\\Server.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Lavish Tyagi\\Desktop\\Viewer\\server\\Server.csproj",
+      "filePath": "C:\\Users\\Lavish Tyagi\\Desktop\\Viewer\\Server\\Server.csproj",
       "libraryId": "Autodesk.Oss",
       "targetGraphs": [
         "net8.0"
