@@ -1771,11 +1771,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lavish Tyagi\\Desktop\\Viewer\\Server\\Server.csproj",
+      "projectUniqueName": "C:\\Users\\Lavish Tyagi\\Desktop\\Viewer\\server\\Server.csproj",
       "projectName": "Server",
-      "projectPath": "C:\\Users\\Lavish Tyagi\\Desktop\\Viewer\\Server\\Server.csproj",
+      "projectPath": "C:\\Users\\Lavish Tyagi\\Desktop\\Viewer\\server\\Server.csproj",
       "packagesPath": "C:\\Users\\Lavish Tyagi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lavish Tyagi\\Desktop\\Viewer\\Server\\obj\\",
+      "outputPath": "C:\\Users\\Lavish Tyagi\\Desktop\\Viewer\\server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lavish Tyagi\\AppData\\Roaming\\NuGet\\NuGet.Config"
