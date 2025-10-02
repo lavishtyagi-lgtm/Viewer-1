@@ -1,14 +1,15 @@
 import * as THREE from "three";
 
-export function getWholeModelBoundingBox(viewer: any) {
+// ✅ Get bounding boxes for all fragments separately
+export function getAllFragmentsBoundingBoxes(viewer: any) {
   const fragList = viewer.model.getFragmentList();
-  const box = new THREE.Box3();
   const fragBox = new THREE.Box3();
+  const boxes: THREE.Box3[] = [];
 
   for (let i = 0; i < fragList.getCount(); i++) {
     fragList.getWorldBounds(i, fragBox);
-    box.union(fragBox);
+    boxes.push(fragBox.clone()); // clone is important
   }
 
-  return box;
+  return boxes;
 }
